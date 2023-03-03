@@ -1,9 +1,144 @@
 {
-    "notas":[
-{
-"id":1,
-"titulo": "estudar JS",
-"status": true
+    "FilmesdeAventura ": [
+      {
+        "id": 1,
+        "titulo": "O Conde de Monte Cristo",
+        "genero": "Aventura/Romance",
+        "diretor": "Kevin Reynolds",
+        "ano": "2002",
+        "duracao": "2h 14m"
+        
+      },
+      {
+        "id": 2,
+        "titulo": "Avatar ",
+        "genero": "Aventura/Ficcao Cientifica",
+        "diretor": "James Cameron",
+        "ano": "2009",
+        "duracao":"2h 42m"
+      },
+  
+      {
+        "id": 3,
+        "titulo": "Avatar I ",
+        "genero": "Aventura/Ficcao Cientifica",
+        "diretor": "James Cameron",
+        "ano": "2022",
+        "duracao": "3h 12m"
+      },
+  
+      {
+        "id": 4,
+        "titulo": "Aquaman",
+        "genero": "Aventura/Acao",
+        "diretor": "James Wan",
+        "ano": "2018",
+        "duracao": "2h 23m"
+      }
+    ],
+  
+    "FilmesdeAcao": [
+      {
+        "id": 1,
+        "titulo": "Scarface",
+        "genero": "Crime/Drama",
+        "diretor":"Brian De Palma",
+        "ano": "1983",
+        "duracao":"2h 50m"
+      },
+  
+      {
+        "id": 2,
+        "titulo": "O Poderoso Chefão ",
+        "genero": "Crime/Drama",
+        "diretor": "Francis Frod Coppola",
+        "ano": "1972",
+        "duracao":"2h 55m"
+      },
+      {
+        "id": 3,
+        "titulo": "O Poderoso Chefão II ",
+        "genero": "Crime/Drama",
+        "diretor": "Francis Frod Coppola",
+        "ano": "1974",
+        "duracao":"3h 22m"
+      },
+      {
+        "id": 4,
+        "titulo": "O Poderoso Chefão III ",
+        "genero": "Crime/Drama",
+        "diretor": "Francis Frod Coppola",
+        "ano": "1990",
+        "duracao":"2h 50m"
+      }
+    ],
+    "FilmesThriller": [
+      {
+        "id": 1,
+        "titulo": "O Silêncio dos Inocêntes",
+        "genero": "Thriller/Terror",
+        "diretor": "Jonathan Demme",
+        "ano": "1991",
+        "duracao":"1h 58m"
+      },
+      {
+        "id": 2,
+        "titulo": "Donnie Darko",
+        "genero": "Thriller/FiccaoCientifica",
+        "diretor": "Rchard Kelly",
+        "ano": "2001",
+        "duracao":"1h 53m"
+      },
+      {
+        "id": 3,
+        "titulo": "Ilha do Medo",
+        "genero": "Thriller/Misterio",
+        "diretor": "Martin Scorsese",
+        "ano": "2010",
+        "duracao":"2h 18m"
+      },
+      {
+        "id": 4,
+        "titulo": "A Pele Que Habito",
+        "genero": "Thriller/Drama",
+        "diretor": "Pedro Almodovar",
+        "ano": "2011",
+        "duracao":"2h 5m"
+      }
+    ],
+    "FilmesBrasileiros": [
+      {
+        "id": 1,
+        "titulo": "Cidade de Deus",
+        "genero": "Drama/Crime",
+        "diretor": "Fernando Meirelles, Kátia Lund",
+        "ano": "2002",
+        "duracao":"2h 13m"
+      },
+      {
+        "id": 2,
+        "titulo": "Carandiru",
+        "genero": "Drama/Crime",
+        "diretor": "Héctor Babenco",
+        "ano": "2003",
+        "duracao":"2h 25m"
+      },
+      {
+        "id": 3,
+        "titulo": "Tropa de Elite",
+        "genero": "Crime/Acao",
+        "diretor": "José Padilha",
+        "ano": "2007",
+        "duracao":"1h 55m"
+      },
+      {
+        "id": 4,
+        "titulo": "O Auto da Compadecida",
+        "genero": "Comédia/Aventura",
+        "diretor": "Guel Arraes",
+        "ano": "2000",
+        "duracao":"1h 44m"
+      }
+    ]
 }
-]
-}
+  
